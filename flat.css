@@ -1,0 +1,379 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+/* html delete */
+
+body {
+        font-family: 'Comfortaa', cursive;
+        position: relative;
+        min-height: 100%;
+    
+     }
+ /* body 9-10*/   
+
+.clear {
+          clear:both;
+    }
+
+
+.no-border {
+    border:none !important;                
+    }
+
+
+#language-switch-text {
+    margin-right: 30px;
+    font: 15px;
+    float:right;
+    }
+
+
+#language-switch-text img {
+    width: 16px;
+    margin-top: 17px;
+    border: 1px;
+    color: aqua;
+    }
+
+
+#language-switch-text a {
+    color: dimgrey;
+    text-decoration: none; !important;
+    }
+
+
+#language-switch-text a:hover {
+    text-decoration: underline;
+    }
+
+
+#header-site {
+    display: flex;
+    justify-content: center;
+    }
+
+
+#header-site   img {
+    height: 300px;
+    }
+
+
+#pic-over-text {
+    justify-content: center;
+    width: 715px;
+    margin: auto;
+    right: 100px;
+    text-align: center;
+    position: absolute; 
+    top: 100px;
+}
+
+.section-break {
+        width: 100%;
+        justify-content: center;
+    }
+
+
+hr.big-line         {
+        width: 1000px;
+                    }
+
+
+hr.small-line       {
+        width: 600px;
+                    }
+
+h1 {
+    margin: 30px auto 10px auto;
+}
+
+h1 a {
+    text-decoration: none;
+    color: black;   
+}
+
+
+h1 a:hover {
+    text-decoration: underline ;
+    }
+
+
+h2 {
+    margin: 10px auto;
+}
+
+
+p {
+    color: black;
+}
+
+
+#navigation-container {
+    width: 100%;
+    height: 45px;
+    justify-content: center;
+    align-content: center;
+                      }
+            
+#navigation-bar     {   
+    float: left;
+    font-size:22px;
+    width: 100%;
+    margin: 10px auto;
+    text-align: center;
+    }
+
+            
+#navigation-bar a { 
+    padding: 0 10px;
+    border-right: 1px solid dimgrey;
+    color: dimgrey;
+    text-decoration: none; 
+    justify-content: center;
+    }
+            
+
+#navigation-bar a:hover {
+    text-decoration: underline;
+    }
+
+
+#footer {
+    width: 100%;
+    color: dimgray;
+    font-size:  10px;
+    margin: 10px auto;
+    text-decoration: none;
+    text-align: center;
+    height: 30px;
+    }
+    /*footer height*/
+
+.main-body{
+    width:1000px;
+    justify-content: center;
+    margin: 0px auto 20px auto;
+    padding-bottom: 6rem;
+     position: relative;
+     
+    
+    }
+
+/*main padding minheight and position*/
+
+.centered {
+    text-align: center !important;  
+    margin: 20px auto;
+}
+
+#map {
+    margin: 20px auto;
+    height: 400px; 
+    width: 1000px;
+    justify-content: center;
+}
+
+table {
+    justify-content: center;
+    margin: 20px auto;
+    width: 1000px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+
+
+td.pic {
+    position: relative;
+    width: 200px;
+    text-align: left;
+    vertical-align: top;
+    
+}
+
+
+td.text {
+    position: relative;
+    width: 300px;
+    text-align: left;
+    vertical-align: top;
+}
+
+
+table a{
+    font-size: 17px;
+    color: dimgray;
+    text-align: left;
+    text-decoration: none; 
+}
+
+table a:hover {
+    text-decoration: underline ;
+    }
+
+
+.flat-preview {
+    width: 200px;
+   vertical-align: top;
+    margin-bottom: 20px;
+}
+
+.no-margin
+{
+    margin-bottom: 0px !important;
+}
+
+
+
+
+.metro {
+    height: 12px;
+    vertical-align: top;
+}
+.man {
+    height: 12px;
+    vertical-align: top;
+}
+
+#metro-distance {
+    margin: 20px auto;
+    vertical-align: bottom;
+    font-size: 12px;
+}
+
+.bottom {
+position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  
+  text-align: center;
+
+}
+
+/*display: flex;
+    position: absolute;
+   bottom:0;
+   width:100%;
+*/
+
+table.price {
+    justify-content: center;
+    margin: auto;
+    width: 1000px;
+    text-align: left;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+
+table.price th {
+   text-decoration: bold;
+    font-size: 20px;
+    vertical-align: text-top;
+    margin: 10px auto;
+    border: 1px solid black;
+}
+
+
+table.price tr {
+border: 1px solid black;
+    margin: 10px auto;
+}
+
+
+table.price td {
+    margin: 10px auto;
+    border: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+table.price a{
+    font-size: 17px;
+    color: black;
+    text-align: left;
+    text-decoration: none; 
+}
+
+table.price a:hover {
+    text-decoration: underline ;
+    }
+
+
+
+td.flat-pics {
+    position: relative;
+    width: 450px;
+    height: auto;
+    text-align: left;
+    vertical-align: top;
+    float: left;
+}
+
+
+.flat-thumb-preview-main {
+    width: 415px;
+    height: auto;
+   vertical-align: top;
+    margin: 20px 10px 20px 0px;
+    
+}
+
+.flat-thumb-preview {
+    width: 100px;
+    height: 100px;
+   vertical-align: top;
+    margin-bottom: 20px;
+}
+
+td.flat-text {
+    position: relative;
+    width: auto;
+    text-align: left;
+    vertical-align: top;
+}
+
+p a {
+    font-size: 15px;
+    color: black;
+}
+
+
+.metro-large {
+    height: 15px;
+    vertical-align: top;
+}
+.man-large {
+    height: 15px;
+    vertical-align: top;
+}
+
+#metro-distance-large {
+    margin: 20px auto;
+    vertical-align: bottom;
+    font-size: 15px;
+}
+
+
+
+.flats-navigation {
+    color: dimgray;
+    font-size: 12px;
+    width:1000px;
+    justify-content: center;
+    margin: 20px auto;
+}
+
+.flats-navigation a {
+   color: dimgray;
+    text-decoration: none;
+}
+
+.flats-navigation a:hover {
+   color: dimgray;
+    text-decoration: underline;
+}
+

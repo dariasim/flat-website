@@ -10,8 +10,8 @@ List of things to fix:
 - Done Fix links on Russian pages 
 - DONE Links on eng apartment
 - DONE Check names on the map
-- Fix google maps file
-- Prices page
-- Fix prices (it tables and on pages)
+- WONTDO (requires billing) Fix google maps file
+- DONE Prices page
+- DONE Fix prices (it tables and on pages)
 
 

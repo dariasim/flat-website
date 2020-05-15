@@ -5,9 +5,13 @@ List of things to fix:
 - DONE Picture preview on all flat pages
 - DONE Index page location
 - DONE Link to flat.css
-- English version
-- Fix links on Russian pages 
+- DONE Eng version apartment links are wrong
+- DONE English version
+- Done Fix links on Russian pages 
+- DONE Links on eng apartment
+- DONE Check names on the map
 - Fix google maps file
 - Prices page
 - Fix prices (it tables and on pages)
-- Links on eng apartment
+
+
